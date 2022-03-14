@@ -11,7 +11,8 @@ namespace Aplikacija
         static void Main(string[] args)
         {
             Console.WriteLine("Danas je lijep i suncan dan");
-        
+            Console.WriteLine("Danas je lijep i suncan dan");
+            Console.WriteLine("Danas je lijep i suncan dan");
         }
     }
 }
